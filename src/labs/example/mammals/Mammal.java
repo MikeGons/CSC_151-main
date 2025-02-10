@@ -4,7 +4,7 @@
 
 package labs.example.mammals;
 
-public class Mammal {
+public class Mammal { 
 
 protected String hairColor;
 protected String eyeColor;
